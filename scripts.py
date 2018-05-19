@@ -22,7 +22,7 @@ def getClsID(real_type):
 dataset_id = '368'
 fin = open('export_'+dataset_id+'.txt', 'r')
 #fout = open('out_'+dataset_id+'.txt', 'w')
-fout2 = open('train_list_'+dataset_id+'.txt', 'w')
+#fout2 = open('train_list_'+dataset_id+'.txt', 'w')
 name = 0
 w = 1
 h = 2
@@ -33,24 +33,23 @@ miny = 6
 maxx = 7
 maxy = 8
 homepath = "/home/alex/Desktop/darknet/pic/"
-for line in fin:
-    items = line.split()
-    if len(items) < 9 or (items[ty] != "goal" and items[ty] != "goalpost"):  # this line does not contain label
-        # cls_id = getClsID("")
-        # fout.write(str(cls_id) + " "  + '\n')
-        # fout2.write(items[name] + '\n')
-        continue
-    # name W H dataset type minx miny maxx maxy
-    #   0  1 2   3      4    5    6    7    8  
-    assert(len(items) == 9)
-    size = (int(items[w]), int(items[h]))
-    b = [int(items[x]) for x in [minx, miny, maxx, maxy]]
-    bb = convert(size, b)
-    cls_id = getClsID(items[ty])
-    annotation_name = homepath + items[name][:-3] + "txt"
-    fout = open(annotation_name, "a")
-    fout.write(str(cls_id) + " " + " ".join([str(a) for a in bb]) + '\n')
-    fout.close()
-    fout2.write(homepath + items[name] + '\n')  # only name of pic should be saved
-fout2.close()
+with open('train_list_'+dataset_id+'.txt', 'w') as fout2:
+    for line in fin:
+        items = line.split()
+        if len(items) < 9 or (items[ty] != "goal" and items[ty] != "goalpost"):  # this line does not contain label
+            # cls_id = getClsID("")
+            # fout.write(str(cls_id) + " "  + '\n')
+            # fout2.write(items[name] + '\n')
+            continue
+        # name W H dataset type minx miny maxx maxy
+        #   0  1 2   3      4    5    6    7    8  
+        assert(len(items) == 9)
+        size = (int(items[w]), int(items[h]))
+        b = [int(items[x]) for x in [minx, miny, maxx, maxy]]
+        bb = convert(size, b)
+        cls_id = getClsID(items[ty])
+        annotation_name = homepath + items[name][:-3] + "txt"
+        with open(annotation_name, "a") as fout:
+            fout.write(str(cls_id) + " " + " ".join([str(a) for a in bb]) + '\n')
+        fout2.write(homepath + items[name] + '\n')  # only name of pic should be saved
 print('done')
