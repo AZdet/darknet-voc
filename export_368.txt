@@ -1,0 +1,2827 @@
+bitbots-2018-iran-18-minibot-game 
+frame3170.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 135 387 256 
+frame3170.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 141 215 257 
+frame3169.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 141 215 257 
+frame3169.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 385 257 
+frame3168.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 385 257 
+frame3168.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 143 214 256 
+frame3167.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 143 214 256 
+frame3167.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 387 256 
+frame3166.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 387 256 
+frame3166.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 143 215 256 
+frame3165.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 143 215 256 
+frame3165.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3164.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3164.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3163.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3163.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3162.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3162.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3161.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3161.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3160.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3160.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3159.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3159.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3158.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3158.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3157.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3157.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3156.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3156.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3155.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3155.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3154.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3154.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3153.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3153.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3152.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3152.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3151.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3151.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3150.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3150.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3149.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3149.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3148.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3148.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3147.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3147.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3146.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3146.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3145.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3145.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3144.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3144.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3143.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3143.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3142.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3142.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3141.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3141.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3140.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3140.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3139.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3139.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3138.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3138.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3137.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3137.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3136.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3136.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3135.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3135.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3134.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3134.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3133.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3133.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3002.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3002.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3001.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3001.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3000.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3000.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2999.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2999.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2998.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2998.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2997.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2997.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2996.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2996.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2995.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2995.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2994.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2994.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2993.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2993.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2992.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2992.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2991.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2991.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2990.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2990.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2989.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2989.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2988.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2988.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2987.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2987.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2986.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2986.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2985.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2985.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2984.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2984.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2983.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2983.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2982.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2982.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2981.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2981.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2980.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2980.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2979.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2979.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2978.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2978.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2977.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2977.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2976.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2976.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2975.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2975.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2974.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2974.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2973.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2973.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2972.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2972.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2971.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2971.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2970.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2970.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2969.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2969.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2968.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2968.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2967.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2967.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2966.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2966.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2965.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2965.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2964.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2964.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2963.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2963.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2962.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2962.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2961.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2961.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2960.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2960.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2959.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2959.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2958.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2958.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2957.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2957.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2956.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2956.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2955.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2955.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2954.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2954.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2953.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2953.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2952.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2952.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2951.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2951.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2950.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2950.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2949.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2949.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2948.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2948.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2947.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2947.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2946.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2946.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2945.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2945.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2944.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2944.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2943.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2943.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2942.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2942.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2941.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2941.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2940.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2940.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2939.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2939.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2938.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2938.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2937.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2937.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2936.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2936.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2935.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2935.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2934.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2934.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2933.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2933.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2932.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2932.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2931.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2931.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2930.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2930.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2929.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2929.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2928.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2928.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2927.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2927.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 131 217 256 
+frame2926.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2926.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 132 215 255 
+frame2925.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2924.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2924.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 236 215 258 
+frame2923.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2923.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2922.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2922.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2921.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2921.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2920.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2920.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2919.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2919.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2918.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2918.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2917.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2917.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2916.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2916.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2915.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2914.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 215 389 256 
+frame2914.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2913.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2913.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2912.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2912.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2911.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2911.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2910.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2910.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2909.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2909.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2908.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2908.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2907.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2907.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2906.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2906.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2905.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2905.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2904.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2904.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2903.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2903.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2902.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2902.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2901.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2901.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2900.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2900.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2899.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2899.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2898.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2898.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2897.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2897.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2896.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2896.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2895.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2895.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2894.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2894.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2893.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2893.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2892.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2892.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2891.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2891.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2890.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2890.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2889.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2889.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2888.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2888.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2887.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2887.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2886.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2886.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2885.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2885.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2884.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2884.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2883.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2883.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2882.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2882.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2881.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2881.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2880.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2880.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2879.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2879.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2878.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2878.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2877.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2877.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2876.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2876.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2875.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2875.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2874.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2874.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2873.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2873.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2872.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2872.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2871.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2871.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2870.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2870.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2869.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2869.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2868.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2868.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2867.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2867.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2866.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2866.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2865.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2865.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2864.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2864.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2863.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2863.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2862.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2862.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2861.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2861.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2860.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2860.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2859.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2859.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2858.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2858.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2857.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2857.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2856.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2856.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2855.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2855.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2854.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2854.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2853.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2853.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2852.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2852.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2851.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2851.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2850.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2850.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2849.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2849.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2848.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2848.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2847.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2847.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2846.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2846.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2845.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2845.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2844.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2844.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2843.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2843.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2842.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2842.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2841.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2841.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2840.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2840.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2839.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2839.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2838.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2838.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 136 386 257 
+frame2837.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2837.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 379 191 387 250 
+frame2836.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2835.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2834.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2834.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 134 387 250 
+frame2833.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2833.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 134 387 250 
+frame2832.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2832.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 134 387 250 
+frame2831.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2831.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 134 387 250 
+frame2830.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2830.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 134 387 250 
+frame2829.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 130 215 256 
+frame2829.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 255 
+frame2828.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 203 134 216 254 
+frame2828.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 255 
+frame2827.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 204 175 220 254 
+frame2827.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 255 
+frame2826.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 255 
+frame2825.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 134 215 225 
+frame2825.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 255 
+frame2824.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2824.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 255 
+frame2823.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2823.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 255 
+frame2822.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2822.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2821.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2821.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2820.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2820.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2819.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2819.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2818.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2818.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2817.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2817.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2816.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2816.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2815.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2815.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2814.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2814.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2813.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2813.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2812.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2812.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2811.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2811.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2810.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2810.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2809.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2809.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2808.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2808.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2807.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2807.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2806.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2806.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2805.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2805.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2804.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2804.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2803.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2803.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2802.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2802.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2801.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2801.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2800.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2800.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2799.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2799.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2798.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2798.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2797.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2797.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2796.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2796.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2795.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2795.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2794.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2794.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2793.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2793.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2792.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2792.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2791.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2791.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2790.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2790.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2789.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2789.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2788.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2788.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2787.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2787.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2758.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2758.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2757.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2757.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2756.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2756.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2755.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2755.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2754.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2754.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2753.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2753.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2752.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2752.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2751.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2751.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2750.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2750.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2749.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2749.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2748.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2748.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2747.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2747.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2746.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2746.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2745.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2745.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2744.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2744.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2743.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2743.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2742.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2742.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2741.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2741.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2740.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2740.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2739.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2739.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2738.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2738.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2737.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2737.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2736.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2736.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2735.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2735.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2734.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2734.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2733.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2733.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2732.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2732.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2731.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2731.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2730.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2730.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2729.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2729.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2728.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2728.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2727.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2727.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2726.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2726.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2725.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2725.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2724.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2724.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2723.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2723.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2722.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2722.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2721.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2721.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2720.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2720.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2719.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2719.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2718.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2718.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2717.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2717.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2716.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2716.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2715.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2715.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2714.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2714.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2713.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2713.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2712.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2712.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2711.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2711.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2710.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2710.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2709.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2709.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2708.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2708.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2707.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2707.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2706.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2706.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2705.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2705.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2704.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2704.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2703.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2703.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2702.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2702.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2701.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2701.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2700.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2700.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2699.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2699.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2698.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2698.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2697.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2697.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2696.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2696.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2695.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2695.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2694.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2694.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2693.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2693.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2692.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2692.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2691.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2691.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2690.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2690.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2689.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2689.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2688.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2688.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2687.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2687.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2686.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2686.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2685.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2685.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2684.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2684.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2683.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2683.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2682.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2682.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2681.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2681.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2680.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2680.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2679.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2679.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2678.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2678.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2677.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2677.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2676.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2676.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2675.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2675.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2674.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2674.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2673.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2673.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2672.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2672.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2671.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2671.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2670.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2670.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2669.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2669.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2668.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2668.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2667.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2667.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2666.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2666.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2665.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2665.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2664.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2664.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2663.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2663.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2662.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2662.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2661.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2661.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2660.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2660.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2659.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2659.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2658.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2658.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2657.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2657.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2656.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2656.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2655.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2655.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2654.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2654.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2653.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2653.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2652.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2652.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2651.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2651.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2650.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2650.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2649.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2649.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2648.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2648.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2647.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2647.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2646.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2646.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2645.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2645.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2644.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2644.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2643.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2643.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2642.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2642.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2641.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2641.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2640.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2640.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2639.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2639.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2638.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2638.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2637.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2637.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2636.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2636.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2635.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2635.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2634.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2634.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2633.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2633.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2632.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2632.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2631.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2631.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2630.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2630.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2629.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2629.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2628.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2628.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2627.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2627.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2626.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2626.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2625.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2625.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2624.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2624.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2623.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2623.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2622.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2622.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2621.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2621.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2620.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2620.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2619.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2619.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2618.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2618.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2617.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2617.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2616.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2616.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2615.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2615.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2614.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2614.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2613.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2613.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2612.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2612.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2611.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2611.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2610.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2610.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2609.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2609.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2608.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2608.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2607.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2607.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2606.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2606.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2605.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2605.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2604.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2604.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2603.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2603.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2602.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2602.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2601.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2601.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2600.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2600.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2599.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2599.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2598.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2598.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2597.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2597.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2596.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2596.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2595.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2595.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2594.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2594.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2593.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2593.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame3132.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3132.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3131.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 141 217 257 
+frame3131.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3099.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 244 217 258 
+frame3099.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3098.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 244 217 258 
+frame3098.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3097.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3096.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3095.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 153 215 187 
+frame3095.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3094.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3094.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3093.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3093.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3092.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3092.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3091.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3091.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3090.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3090.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3089.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3089.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3088.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3088.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3087.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3087.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3086.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3086.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3085.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3085.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3084.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3084.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3083.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3083.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3082.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3082.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3081.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3081.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3080.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3080.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3079.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3079.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3078.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3078.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3077.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3077.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3076.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3076.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3075.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3075.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3074.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3074.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3073.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3073.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3072.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3072.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3071.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3071.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3070.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3070.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3069.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3069.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3068.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3068.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3067.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3067.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3066.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3066.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3065.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3065.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3064.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3064.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3063.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3063.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3062.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3062.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3061.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3061.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3060.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3060.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3059.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3059.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3058.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3058.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3057.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3057.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3056.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3056.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3055.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3055.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3054.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3054.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3053.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3053.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3052.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3052.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3051.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3051.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3050.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3050.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3049.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3049.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3048.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3048.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3047.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3047.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3046.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3046.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3045.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3045.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3044.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3044.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3043.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3043.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3042.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3042.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3041.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3041.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3040.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3040.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3039.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3039.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3038.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3038.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3037.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3037.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3036.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3036.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3035.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3035.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3034.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3034.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3033.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3033.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3032.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3032.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3031.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3031.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3030.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3030.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3029.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3029.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3028.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3028.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3027.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3027.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3026.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3026.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3025.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3025.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3024.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3024.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3023.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3023.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3022.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3022.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3021.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3021.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3020.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3020.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3019.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3019.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3018.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3018.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3017.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3017.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3016.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3016.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3015.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3015.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3014.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3014.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3013.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3013.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3012.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3012.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3011.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3011.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3010.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3010.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3009.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3009.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3008.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3008.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3007.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3007.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3006.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3006.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3005.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3005.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3004.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3004.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame3003.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame3003.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 135 386 257 
+frame2592.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2592.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2591.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2591.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2590.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2590.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2589.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2589.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2588.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2588.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2587.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2587.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2586.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2586.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2585.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2585.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2584.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2584.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2583.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2583.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2582.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2582.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2581.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2581.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2580.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2580.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2579.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2579.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2578.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2578.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2577.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2577.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2576.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2576.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2575.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2575.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2574.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2574.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2573.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2573.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2572.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2572.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2571.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2571.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2570.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2570.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2569.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2569.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2568.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2568.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2567.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2567.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2566.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2566.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2565.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2565.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2564.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2564.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2563.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2563.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2562.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2562.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2561.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2561.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2560.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2560.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2559.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2559.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2558.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2558.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2557.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2557.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2556.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2556.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2555.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2555.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2554.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2554.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2553.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2553.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2552.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2552.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2551.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2551.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2550.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2550.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2549.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2549.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2548.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2548.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2547.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2547.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2546.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2546.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2545.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2545.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2544.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2544.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2543.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2543.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2356.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2356.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2355.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2355.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2354.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2354.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2353.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2353.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2352.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2352.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2351.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2351.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2350.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2350.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2349.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2349.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2348.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2348.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2347.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2347.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2346.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2346.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2345.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2345.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2344.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2344.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2343.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2343.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2342.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2342.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2341.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2341.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2340.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2340.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2339.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2339.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2338.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2338.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2337.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2337.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2336.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2336.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2335.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2335.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2334.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2334.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2333.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2333.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2332.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2332.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2331.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2331.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2330.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2330.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2329.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2329.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2328.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2328.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2327.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2327.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2326.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2326.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2325.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2325.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2324.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2324.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2323.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2323.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2322.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2322.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2321.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2321.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2320.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2320.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2319.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2319.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2318.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2318.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2317.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2317.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2316.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2316.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2315.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2315.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2314.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2314.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2313.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2313.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2312.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2312.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2311.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2311.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2310.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2310.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2309.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2309.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2308.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2308.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2307.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2307.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2306.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2306.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2305.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2305.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2304.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2304.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2303.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2303.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2302.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2302.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2301.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2301.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2300.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2300.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2299.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2299.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2298.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2298.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2297.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2297.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2296.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2296.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2295.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2295.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2294.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2294.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2293.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2293.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2292.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2292.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2291.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2291.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2290.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2290.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2289.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2289.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2288.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2288.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2287.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2287.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2286.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2286.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2285.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2285.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2284.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2284.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2283.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2283.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2282.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2282.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2281.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2281.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2280.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2280.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2279.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2279.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2278.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2278.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2277.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2277.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2276.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 253 
+frame2276.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2275.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 204 155 217 230 
+frame2275.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2274.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 204 159 215 217 
+frame2274.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2273.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2272.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2271.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2270.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 126 218 148 
+frame2270.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2269.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 126 218 148 
+frame2269.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2268.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2267.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2266.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2265.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2265.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 166 215 197 
+frame2264.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2264.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 146 216 227 
+frame2263.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2263.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 154 213 253 
+frame2262.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2262.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 130 217 254 
+frame2261.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2261.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 130 217 254 
+frame2260.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2260.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 130 217 254 
+frame2259.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2259.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 130 217 254 
+frame2258.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2258.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 203 132 216 257 
+frame2257.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2257.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 203 132 216 257 
+frame2256.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2256.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 128 215 256 
+frame2255.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2255.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 128 215 256 
+frame2254.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2254.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 128 215 256 
+frame2253.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2253.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 203 135 213 260 
+frame2252.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 130 390 252 
+frame2252.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 127 219 253 
+frame2251.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 122 219 247 
+frame2251.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 379 125 390 247 
+frame2250.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 378 124 392 244 
+frame2250.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 208 120 220 246 
+frame2249.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 204 142 214 265 
+frame2249.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 146 385 264 
+frame2248.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 203 150 215 274 
+frame2248.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 370 153 383 276 
+frame2247.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 134 387 260 
+frame2247.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 133 219 262 
+frame2246.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 195 93 217 230 
+frame2246.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 365 83 386 216 
+frame2245.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 179 105 204 232 
+frame2245.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 354 94 376 215 
+frame2244.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 349 102 369 223 
+frame2244.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 176 110 197 236 
+frame2243.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 189 111 209 239 
+frame2243.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 363 106 384 230 
+frame2242.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 110 224 237 
+frame2242.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 382 103 398 228 
+frame2241.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 229 74 238 203 
+frame2241.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 403 75 413 205 
+frame2240.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 230 57 244 186 
+frame2240.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 403 63 420 195 
+frame2239.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 237 63 253 190 
+frame2239.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 410 72 429 204 
+frame2238.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 237 57 249 182 
+frame2238.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 413 63 429 196 
+frame2237.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 219 52 232 181 
+frame2237.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 396 62 412 196 
+frame2235.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 301 124 319 257 
+frame2235.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 118 107 137 244 
+frame2234.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 91 134 114 267 
+frame2234.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 281 147 296 280 
+frame2233.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 72 128 84 268 
+frame2233.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 264 135 274 273 
+frame2232.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 72 117 89 257 
+frame2232.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 265 128 277 266 
+frame2231.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 95 115 112 252 
+frame2231.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 283 120 299 258 
+frame2230.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 166 125 180 256 
+frame2230.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 343 119 359 256 
+frame2229.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 214 120 225 245 
+frame2229.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 389 107 403 247 
+frame2228.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 252 107 264 233 
+frame2228.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 426 94 444 238 
+frame2227.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 296 109 312 232 
+frame2227.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 471 102 490 248 
+frame2226.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 328 123 349 248 
+frame2226.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 504 123 529 268 
+frame2225.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 360 115 395 244 
+frame2225.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 537 132 584 285 
+frame2224.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 407 68 459 198 
+frame2224.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 584 111 639 267 
+frame2223.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 429 63 483 186 
+frame2223.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 608 198 637 255 
+frame2222.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 475 101 524 223 
+frame2221.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 512 127 543 257 
+frame2220.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 526 125 552 255 
+frame2219.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 539 108 557 244 
+frame2218.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 538 100 555 235 
+frame2217.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 523 106 539 238 
+frame2216.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 527 108 543 239 
+frame2215.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 543 106 556 240 
+frame2214.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 564 107 576 241 
+frame2213.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 568 110 581 245 
+frame2212.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 573 117 593 252 
+frame2211.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 600 121 612 260 
+frame2210.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 606 130 624 270 
+frame2209.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 603 135 621 278 
+frame2208.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 605 122 636 268 
+frame2207.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 626 217 637 249 
+frame2206.png
+frame2205.png
+frame2204.png
+frame2203.png
+frame2202.png
+frame2201.png
+frame2200.png
+frame2199.png
+frame2198.png
+frame2197.png
+frame2196.png
+frame2195.png
+frame2194.png
+frame2193.png
+frame2192.png
+frame2191.png
+frame2190.png
+frame2786.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2786.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2785.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2785.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 136 385 256 
+frame2784.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2784.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2783.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2783.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2782.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2782.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2781.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2781.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2780.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2780.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2779.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2779.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2778.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2778.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2777.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2777.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2776.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2776.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2775.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2775.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2774.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2774.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2773.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2773.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2772.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2772.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2771.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2771.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2770.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2770.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2769.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2769.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2768.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2768.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2767.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2767.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2766.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2766.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2765.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2765.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2764.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2764.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2763.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2763.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2762.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2762.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2761.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2761.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2760.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2760.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2759.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2759.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2189.png
+frame2188.png
+frame2187.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 33 53 65 253 
+frame2186.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 65 69 85 266 
+frame2185.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 75 69 99 261 
+frame2184.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 74 73 103 264 
+frame2183.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 65 70 87 264 
+frame2182.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 59 50 78 248 
+frame2181.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 57 34 83 233 
+frame2180.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 59 34 83 227 
+frame2179.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 44 50 77 246 
+frame2178.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 30 93 53 289 
+frame2177.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 5 131 30 322 
+frame2176.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 94 21 305 
+frame2175.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 53 21 257 
+frame2174.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 11 43 34 233 
+frame2173.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 40 55 68 239 
+frame2149.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 337 93 360 276 
+frame2149.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 542 15 586 354 
+frame2148.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 339 65 365 250 
+frame2148.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 544 1 596 358 
+frame2147.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 351 67 369 248 
+frame2147.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 556 1 600 351 
+frame2146.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 352 94 373 279 
+frame2146.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 559 11 595 358 
+frame2145.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 344 96 362 283 
+frame2145.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 552 17 588 357 
+frame2144.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 344 99 361 283 
+frame2144.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 548 17 582 359 
+frame2143.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 326 84 344 270 
+frame2143.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 527 5 565 358 
+frame2142.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 317 76 337 263 
+frame2142.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 510 4 557 357 
+frame2141.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 317 83 334 265 
+frame2141.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 513 5 557 358 
+frame2140.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 330 101 348 276 
+frame2140.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 533 18 569 359 
+frame2139.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 351 99 368 288 
+frame2138.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 351 101 370 284 
+frame2138.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 555 20 593 358 
+frame2137.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 348 100 366 282 
+frame2137.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 554 25 588 357 
+frame2136.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 339 101 357 290 
+frame2136.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 543 36 578 359 
+frame2135.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 335 109 352 292 
+frame2135.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 542 34 571 357 
+frame2134.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 333 108 347 296 
+frame2134.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 539 33 572 359 
+frame2133.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 338 109 357 293 
+frame2133.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 545 29 577 359 
+frame2132.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 351 108 368 290 
+frame2132.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 561 27 596 359 
+frame2131.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 361 116 379 300 
+frame2131.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 572 35 611 358 
+frame2130.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 353 122 377 304 
+frame2130.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 558 37 610 359 
+frame2129.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 342 122 364 308 
+frame2129.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 540 36 592 358 
+frame2128.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 331 124 353 306 
+frame2128.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 530 38 580 359 
+frame2127.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 528 30 572 357 
+frame2127.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 323 116 349 301 
+frame2126.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 339 104 358 292 
+frame2126.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 547 18 584 359 
+frame2125.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 366 105 381 289 
+frame2125.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 573 17 620 358 
+frame2124.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 369 103 393 295 
+frame2124.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 582 20 628 359 
+frame2123.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 358 119 375 304 
+frame2123.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 568 27 612 359 
+frame2122.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 355 128 373 313 
+frame2122.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 563 36 600 359 
+frame2121.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 371 122 391 309 
+frame2121.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 591 18 628 359 
+frame2120.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 399 116 415 304 
+frame2119.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 412 100 430 295 
+frame1744.png
+frame1743.png
+frame1412.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 260 19 298 202 
+frame1412.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 1 22 101 322 
+frame1411.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 35 20 136 301 
+frame1411.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 285 21 329 189 
+frame1410.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 26 18 135 302 
+frame1410.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 281 15 323 182 
+frame1409.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 28 18 128 296 
+frame1409.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 281 23 326 176 
+frame1408.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 55 20 154 282 
+frame1408.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 302 19 342 166 
+frame1407.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 58 19 155 264 
+frame1407.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 309 17 341 155 
+frame1395.png
+frame1394.png
+frame1393.png
+frame1392.png
+frame1391.png
+frame1390.png
+frame1389.png
+frame1388.png
+frame1386.png
+frame1385.png
+frame1384.png
+frame1383.png
+frame1382.png
+frame1381.png
+frame1380.png
+frame1379.png
+frame1378.png
+frame1377.png
+frame1376.png
+frame1375.png
+frame1374.png
+frame1373.png
+frame1372.png
+frame1371.png
+frame1370.png
+frame1369.png
+frame1368.png
+frame1367.png
+frame1366.png
+frame1365.png
+frame1364.png
+frame1363.png
+frame1362.png
+frame1361.png
+frame1360.png
+frame1359.png
+frame1358.png
+frame1357.png
+frame1356.png
+frame1354.png
+frame1353.png
+frame1352.png
+frame1351.png
+frame1350.png
+frame1349.png
+frame1348.png
+frame1347.png
+frame1346.png
+frame1345.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 1 19 29 55 
+frame1344.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 67 18 89 36 
+frame1343.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 82 18 104 49 
+frame1342.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 82 18 104 49 
+frame1341.png
+frame1340.png
+frame1339.png
+frame1338.png
+frame1337.png
+frame1336.png
+frame1333.png
+frame1332.png
+frame1331.png
+frame1330.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 19 436 171 
+frame1329.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 392 19 456 162 
+frame1328.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 427 20 485 167 
+frame1327.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 431 20 490 168 
+frame1326.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 400 17 457 184 
+frame1325.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 396 19 451 181 
+frame1324.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 390 19 446 173 
+frame1313.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 144 18 231 256 
+frame1313.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 380 19 414 150 
+frame1312.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 367 19 393 176 
+frame1312.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 133 15 205 273 
+frame1311.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 130 19 204 263 
+frame1311.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 364 19 395 167 
+frame1310.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 109 19 188 272 
+frame1310.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 346 19 380 175 
+frame1309.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 95 19 183 268 
+frame1309.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 336 19 370 172 
+frame1308.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 88 19 176 264 
+frame1308.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 330 15 365 171 
+frame1307.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 73 19 167 281 
+frame1307.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 315 20 352 180 
+frame1305.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 616 35 637 122 
+frame1304.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 624 96 637 132 
+frame1303.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 628 119 638 147 
+frame1302.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 628 119 638 147 
+frame1294.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 116 19 158 137 
+frame1294.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 271 66 319 189 
+frame1293.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 270 56 319 185 
+frame1293.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 112 18 153 131 
+frame1292.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 115 19 150 127 
+frame1292.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 273 50 319 180 
+frame1291.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 106 15 141 121 
+frame1291.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 268 41 314 170 
+frame1269.png
+frame1268.png
+frame1267.png
+frame1266.png
+frame1265.png
+frame1264.png
+frame1263.png
+frame1262.png
+frame1260.png
+frame1259.png
+frame1258.png
+frame1257.png
+frame1256.png
+frame1255.png
+frame1254.png
+frame1252.png
+frame1251.png
+frame1250.png
+frame1249.png
+frame1248.png
+frame1247.png
+frame1246.png
+frame1245.png
+frame1243.png
+frame1242.png
+frame1241.png
+frame1240.png
+frame1239.png
+frame1238.png
+frame1237.png
+frame1236.png
+frame1234.png
+frame1233.png
+frame1232.png
+frame1207.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 1 271 11 303 
+frame1207.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 193 20 230 199 
+frame1206.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 215 19 257 190 
+frame1206.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 112 49 296 
+frame1205.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 1 160 51 288 
+frame1205.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 190 22 249 167 
+frame1204.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 187 19 237 177 
+frame1204.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 199 35 299 
+frame1203.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 150 19 213 162 
+frame1203.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 276 14 302 
+frame1202.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 269 19 306 
+frame1202.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 152 18 215 163 
+frame1201.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 163 18 221 163 
+frame1201.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 1 247 22 301 
+frame1198.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 563 19 586 111 
+frame1197.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 554 17 588 117 
+frame1196.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 605 15 638 120 
+frame1195.png
+frame1194.png
+frame1193.png
+frame1192.png
+frame1191.png
+frame1157.png
+frame1156.png
+frame1155.png
+frame1154.png
+frame1153.png
+frame1152.png
+frame1151.png
+frame1150.png
+frame1149.png
+frame1148.png
+frame1147.png
+frame1138.png
+frame1137.png
+frame1136.png
+frame1135.png
+frame1124.png
+frame1123.png
+frame1122.png
+frame1121.png
+frame1120.png
+frame1119.png
+frame1118.png
+frame1117.png
+frame1116.png
+frame1115.png
+frame1114.png
+frame1070.png
+frame1069.png
+frame2542.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2542.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2541.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2541.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2540.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2540.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2539.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2539.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2538.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2538.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2537.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2537.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2536.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2536.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2535.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2535.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2534.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2534.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2533.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2533.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2532.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2532.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2531.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2531.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2530.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2530.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2529.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2529.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2528.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2528.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2527.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2527.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2526.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2526.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2525.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2525.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2524.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2524.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2523.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2523.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2522.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2522.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2521.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2521.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2520.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2520.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2519.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2519.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2518.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2518.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2517.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2517.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2516.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2516.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2515.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2515.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2514.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2514.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2513.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2513.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2512.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2512.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2511.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2511.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2510.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2510.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2509.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2509.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2508.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2508.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2507.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2507.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2506.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2506.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2505.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2505.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2504.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2504.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2503.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2503.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2502.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2502.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2501.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2501.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2500.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2500.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2499.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2499.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2498.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2498.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2497.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2497.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2496.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2496.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2495.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2495.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2494.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2494.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2493.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2493.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2492.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2492.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2491.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2491.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2490.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2490.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2489.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2489.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2488.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2488.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2487.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2487.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2486.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2486.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2485.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2485.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2484.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2484.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2483.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2483.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2482.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2482.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2481.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2481.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2480.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 376 134 386 255 
+frame2480.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 205 131 218 255 
+frame2480.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2479.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2479.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2478.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2478.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2477.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2477.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2476.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2476.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2475.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2475.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2474.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2474.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2473.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2473.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2472.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2472.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2471.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2471.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2470.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2470.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2469.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2469.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2468.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2468.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2467.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2467.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2466.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2466.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2465.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2465.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2464.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2464.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2463.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2463.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2462.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2462.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2461.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2461.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2460.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2460.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2459.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2459.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2458.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2458.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2457.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2457.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2456.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2456.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2455.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2455.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2454.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2454.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2453.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2453.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2452.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2452.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2451.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2451.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2450.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2450.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2449.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2449.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2448.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2448.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2447.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2447.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2446.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2446.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2445.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2445.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2444.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2444.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2443.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2443.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2442.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2442.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2441.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2441.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2440.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2440.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2439.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2439.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2438.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2438.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2437.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2437.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2436.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2436.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2435.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2435.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2434.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2434.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2433.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2433.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2432.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2432.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2431.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2431.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2430.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2430.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2429.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2429.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2428.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2428.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2427.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2427.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2426.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2426.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2425.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2425.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2424.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2424.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2423.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2423.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2422.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2422.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2421.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2421.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2420.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2420.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2419.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2419.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2418.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2418.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2417.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2417.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2416.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2416.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2415.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2415.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2414.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2414.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2413.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2413.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2412.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2412.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2411.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2411.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2410.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2410.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2409.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2409.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2408.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2408.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2407.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2407.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2406.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2406.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2405.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2405.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2404.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2404.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2403.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2403.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2402.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2402.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2401.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2401.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2400.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2400.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2399.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2399.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2398.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2398.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2397.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2397.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2396.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2396.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2395.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2395.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2394.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2394.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2393.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2393.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2392.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2392.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2391.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2391.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2390.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2390.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2389.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2389.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2388.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2388.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2387.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2387.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2386.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2386.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2385.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2385.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2384.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2384.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2383.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2383.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2382.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2382.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2381.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2381.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2380.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2380.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2379.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2379.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2378.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2378.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2377.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2377.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2376.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2376.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2375.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2375.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2374.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2374.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2373.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2373.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2372.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2372.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2371.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2371.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2370.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2370.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2369.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2369.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2368.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2368.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2367.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2367.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2366.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2366.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2365.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2365.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2364.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2364.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2363.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2363.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2362.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2362.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2361.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2361.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2360.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2360.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2359.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2359.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2358.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2358.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame2357.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 206 130 216 255 
+frame2357.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 136 389 257 
+frame1068.png
+frame1067.png
+frame1066.png
+frame1065.png
+frame1064.png
+frame1063.png
+frame1062.png
+frame1061.png
+frame1060.png
+frame1059.png
+frame1058.png
+frame1057.png
+frame1056.png
+frame1055.png
+frame1054.png
+frame1053.png
+frame1052.png
+frame1039.png
+frame1038.png
+frame1037.png
+frame1036.png
+frame1035.png
+frame1034.png
+frame1033.png
+frame1031.png
+frame1030.png
+frame1029.png
+frame1028.png
+frame1027.png
+frame1026.png
+frame1025.png
+frame1024.png
+frame1022.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 98 57 135 248 
+frame1022.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 315 83 375 348 
+frame1021.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 282 18 339 255 
+frame1021.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 46 15 70 154 
+frame1020.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 86 19 119 122 
+frame1020.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 334 19 354 176 
+frame1019.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 330 19 350 167 
+frame1019.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 73 19 119 122 
+frame1008.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 122 18 179 234 
+frame1007.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 254 19 292 203 
+frame1007.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 171 17 221 
+frame1006.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 21 33 68 222 
+frame1006.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 295 20 321 212 
+frame1005.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 86 53 122 222 
+frame1005.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 339 28 367 220 
+frame1004.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 399 20 419 207 
+frame1004.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 152 36 185 200 
+frame1003.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 221 43 252 205 
+frame1003.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 468 15 489 206 
+frame1002.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 508 20 535 209 
+frame1002.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 262 61 301 218 
+frame1001.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 292 23 330 191 
+frame1001.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 544 19 564 190 
+frame1000.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 325 19 350 111 
+frame1000.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 578 17 597 107 
+frame0999.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 359 1 375 70 
+frame0998.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 386 0 401 77 
+frame0997.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 418 0 431 90 
+frame0996.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 420 2 434 123 
+frame0995.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 397 0 409 148 
+frame0782.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 451 4 482 120 
+frame0782.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 268 0 286 104 
+frame0781.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 275 3 301 107 
+frame0781.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 470 1 484 94 
+frame0780.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 252 0 294 93 
+frame0779.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 426 0 465 107 
+frame0778.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 426 0 465 107 
+frame0777.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 447 0 463 128 
+frame0776.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 481 34 495 166 
+frame0775.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 465 42 479 176 
+frame0774.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 417 8 437 145 
+frame0774.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 627 78 640 177 
+frame0773.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 428 3 447 117 
+frame0758.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 193 35 212 178 
+frame0758.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 377 37 389 178 
+frame0757.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 391 20 404 152 
+frame0756.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 394 40 419 180 
+frame0755.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 390 105 419 230 
+frame0755.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 218 134 246 244 
+frame0754.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 384 131 399 255 
+frame0754.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 210 135 225 262 
+frame0753.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 393 160 404 290 
+frame0753.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 218 158 231 283 
+frame0750.png
+frame0749.png
+frame0748.png
+frame0747.png
+frame0746.png
+frame0745.png
+frame0744.png
+frame0742.png
+frame0741.png
+frame0739.png
+frame0738.png
+frame0737.png
+frame0736.png
+frame0735.png
+frame0734.png
+frame0733.png
+frame0732.png
+frame0731.png
+frame0730.png
+frame0729.png
+frame0728.png
+frame0727.png
+frame0726.png
+frame0725.png
+frame0724.png
+frame0723.png
+frame0722.png
+frame0721.png
+frame0720.png
+frame0719.png
+frame0718.png
+frame0717.png
+frame0716.png
+frame0715.png
+frame0714.png
+frame0713.png
+frame0712.png
+frame0711.png
+frame0710.png
+frame0709.png
+frame0708.png
+frame0565.png
+frame0564.png
+frame0563.png
+frame0562.png
+frame0558.png
+frame0557.png
+frame0556.png
+frame0555.png
+frame0554.png
+frame0553.png
+frame0552.png
+frame0551.png
+frame0550.png
+frame0549.png
+frame0548.png
+frame0547.png
+frame0546.png
+frame0545.png
+frame0544.png
+frame0543.png
+frame0542.png
+frame0541.png
+frame0540.png
+frame0539.png
+frame0536.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 90 72 103 203 
+frame0535.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 96 40 128 178 
+frame0534.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 82 32 120 173 
+frame0533.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 20 6 55 154 
+frame0532.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 0 9 147 
+frame0531.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 32 8 50 153 
+frame0530.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 55 53 74 191 
+frame0529.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 61 76 86 214 
+frame0526.png
+frame0525.png
+frame0524.png
+frame0523.png
+frame0522.png
+frame0521.png
+frame0520.png
+frame0519.png
+frame0518.png
+frame0517.png
+frame0516.png
+frame0515.png
+frame0514.png
+frame0513.png
+frame0512.png
+frame0511.png
+frame0510.png
+frame0509.png
+frame0508.png
+frame0507.png
+frame0506.png
+frame0505.png
+frame0504.png
+frame0503.png
+frame0502.png
+frame0501.png
+frame0500.png
+frame0499.png
+frame0498.png
+frame0497.png
+frame0496.png
+frame0495.png
+frame0494.png
+frame0493.png
+frame0492.png
+frame0491.png
+frame0490.png
+frame0489.png
+frame0487.png
+frame0486.png
+frame0485.png
+frame0484.png
+frame0483.png
+frame0482.png
+frame0481.png
+frame0479.png
+frame0478.png
+frame0477.png
+frame0476.png
+frame0475.png
+frame0474.png
+frame0473.png
+frame0472.png
+frame0471.png
+frame0470.png
+frame0469.png
+frame0468.png
+frame0467.png
+frame0466.png
+frame0465.png
+frame0464.png
+frame0463.png
+frame0461.png
+frame0460.png
+frame0459.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 359 1 375 36 
+frame0459.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 536 0 553 47 
+frame0458.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 359 1 375 36 
+frame0457.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 350 0 369 27 
+frame0456.png
+frame0455.png
+frame0454.png
+frame0453.png
+frame0452.png
+frame0450.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 509 2 524 89 
+frame0449.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 534 0 552 67 
+frame0448.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 618 0 638 66 
+frame0447.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 617 0 639 74 
+frame0446.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 607 1 628 104 
+frame1742.png
+frame1741.png
+frame1740.png
+frame1739.png
+frame1738.png
+frame1520.png
+frame1519.png
+frame1518.png
+frame1517.png
+frame1516.png
+frame1515.png
+frame1514.png
+frame1513.png
+frame1512.png
+frame1511.png
+frame1510.png
+frame1509.png
+frame1508.png
+frame1507.png
+frame1506.png
+frame1505.png
+frame1504.png
+frame1503.png
+frame1502.png
+frame1501.png
+frame1500.png
+frame1499.png
+frame1498.png
+frame1482.png
+frame1481.png
+frame1480.png
+frame1479.png
+frame1478.png
+frame1477.png
+frame1476.png
+frame1475.png
+frame1473.png
+frame1472.png
+frame1471.png
+frame1470.png
+frame1469.png
+frame1468.png
+frame1466.png
+frame1465.png
+frame1464.png
+frame1463.png
+frame1462.png
+frame1461.png
+frame1460.png
+frame1459.png
+frame1457.png
+frame1456.png
+frame1455.png
+frame1454.png
+frame1453.png
+frame1452.png
+frame1451.png
+frame1449.png
+frame1448.png
+frame1447.png
+frame1446.png
+frame1445.png
+frame1444.png
+frame1443.png
+frame1442.png
+frame1441.png
+frame1440.png
+frame1439.png
+frame1438.png
+frame1437.png
+frame1436.png
+frame1435.png
+frame1434.png
+frame1416.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 110 20 206 243 
+frame1416.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 357 17 391 130 
+frame1415.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 86 19 199 266 
+frame1415.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 332 18 382 154 
+frame1414.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 29 19 137 295 
+frame1414.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 276 18 325 179 
+frame1413.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 22 19 116 303 
+frame1413.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 276 19 312 193 
+frame0445.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 570 1 589 132 
+frame0444.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 513 0 536 111 
+frame0432.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 567 50 582 188 
+frame0432.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 393 68 405 186 
+frame0431.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 432 65 457 179 
+frame0431.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 627 27 639 163 
+frame0430.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 456 55 483 173 
+frame0429.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 452 89 487 215 
+frame0428.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 440 128 467 239 
+frame0427.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 413 135 435 249 
+frame0427.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 591 124 615 253 
+frame0426.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 572 132 598 260 
+frame0426.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 397 125 417 240 
+frame0422.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 72 53 119 177 
+frame0422.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 243 20 284 139 
+frame0421.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 323 27 332 141 
+frame0421.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 149 33 173 157 
+frame0420.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 174 12 191 139 
+frame0420.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 342 24 352 138 
+frame0419.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 348 12 358 132 
+frame0419.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 180 8 198 133 
+frame0418.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 199 0 215 111 
+frame0418.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 364 1 379 115 
+frame0417.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 379 2 388 112 
+frame0417.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 209 0 227 112 
+frame0416.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 144 2 174 99 
+frame0416.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 320 0 333 83 
+frame0402.png
+frame0401.png
+frame0400.png
+frame0399.png
+frame0398.png
+frame0397.png
+frame0396.png
+frame0395.png
+frame0394.png
+frame0393.png
+frame0392.png
+frame0391.png
+frame0390.png
+frame0389.png
+frame0388.png
+frame0387.png
+frame0386.png
+frame0385.png
+frame0384.png
+frame0383.png
+frame0382.png
+frame0381.png
+frame0380.png
+frame0379.png
+frame0378.png
+frame0377.png
+frame0376.png
+frame0373.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 164 0 203 27 
+frame0372.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 184 0 223 28 
+frame0371.png
+frame0370.png
+frame0369.png
+frame0368.png
+frame0367.png
+frame0366.png
+frame0365.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 422 0 477 132 
+frame0364.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 422 0 473 139 
+frame0363.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 422 0 473 141 
+frame0362.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 405 1 464 144 
+frame0361.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 615 0 640 28 
+frame0361.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 346 2 407 133 
+frame0360.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 328 0 398 152 
+frame0360.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 598 2 624 33 
+frame0359.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 574 2 602 50 
+frame0359.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 309 0 379 169 
+frame0358.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 353 0 421 162 
+frame0358.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 631 0 639 47 
+frame0346.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 119 96 322 
+frame0346.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 203 0 282 178 
+frame0345.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 178 0 262 174 
+frame0345.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 180 74 322 
+frame0344.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 260 42 347 
+frame0344.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 144 1 234 183 
+frame0343.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 89 94 324 
+frame0343.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 218 0 288 177 
+frame0342.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 239 3 301 180 
+frame0342.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 18 103 313 
+frame0338.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 70 0 94 78 
+frame0337.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 96 0 120 96 
+frame0336.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 80 0 110 139 
+frame0335.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 80 0 109 133 
+frame0334.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 69 0 101 131 
+frame0333.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 19 0 56 121 
+frame0332.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 4 0 45 128 
+frame0328.png
+frame0327.png
+frame0326.png
+frame0325.png
+frame0324.png
+frame0323.png
+frame0322.png
+frame0321.png
+frame0320.png
+frame0319.png
+frame0318.png
+frame0317.png
+frame0316.png
+frame0315.png
+frame0314.png
+frame0312.png
+frame0311.png
+frame0310.png
+frame0309.png
+frame0308.png
+frame0307.png
+frame0306.png
+frame0305.png
+frame0304.png
+frame0303.png
+frame0302.png
+frame0301.png
+frame0300.png
+frame0299.png
+frame0298.png
+frame0297.png
+frame0296.png
+frame0295.png
+frame0294.png
+frame0293.png
+frame0290.png
+frame0289.png
+frame0288.png
+frame0287.png
+frame0286.png
+frame0285.png
+frame0284.png
+frame0283.png
+frame0282.png
+frame0280.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 405 0 464 145 
+frame0279.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 391 0 450 145 
+frame0278.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 0 433 145 
+frame0277.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 392 0 448 140 
+frame0276.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 397 3 453 132 
+frame0263.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 418 1 460 153 
+frame0263.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 173 1 262 248 
+frame0262.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 153 1 243 245 
+frame0262.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 399 1 441 153 
+frame0261.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 404 2 444 145 
+frame0261.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 157 1 247 245 
+frame0260.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 408 2 449 144 
+frame0260.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 162 0 251 241 
+frame0259.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 425 2 461 130 
+frame0259.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 180 2 260 225 
+frame0258.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 0 286 210 
+frame0258.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 457 0 491 113 
+frame0257.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 447 1 482 118 
+frame0257.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 199 1 282 210 
+frame0256.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 179 0 259 235 
+frame0256.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 425 0 458 140 
+frame0254.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 48 0 81 120 
+frame0253.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 42 0 75 127 
+frame0252.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 42 0 75 127 
+frame0251.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 36 0 75 119 
+frame0250.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 0 26 118 
+frame0249.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 28 0 65 133 
+frame0248.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 33 0 70 133 
+frame0247.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 0 38 133 
+frame0246.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 0 34 135 
+frame0245.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 1 33 132 
+frame0244.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 382 36 421 157 
+frame0244.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 558 60 603 206 
+frame0243.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 561 75 620 227 
+frame0243.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 392 49 434 165 
+frame0242.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 424 50 472 172 
+frame0242.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 601 132 639 238 
+frame0241.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 613 177 637 246 
+frame0241.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 437 58 477 177 
+frame0240.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 436 71 476 193 
+frame0240.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 617 188 639 256 
+frame0239.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 610 174 639 258 
+frame0239.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 433 71 472 197 
+frame0238.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 440 76 481 200 
+frame0238.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 619 210 640 265 
+frame0237.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 633 218 640 250 
+frame0237.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 450 64 491 188 
+frame0236.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 446 62 487 187 
+frame0236.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 627 220 640 252 
+frame0234.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 32 55 166 
+frame0234.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 177 101 235 234 
+frame0233.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 198 100 254 230 
+frame0233.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 22 41 81 166 
+frame0232.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 32 49 83 180 
+frame0232.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 211 106 259 241 
+frame0231.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 193 97 243 231 
+frame0231.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 12 43 66 177 
+frame0230.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 12 37 65 169 
+frame0230.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 193 97 243 231 
+frame0229.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 194 99 245 235 
+frame0229.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 12 37 69 173 
+frame0228.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 37 60 92 188 
+frame0228.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 211 117 264 250 
+frame0227.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 219 120 274 253 
+frame0227.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 48 62 107 190 
+frame0226.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 271 1 297 70 
+frame0226.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 424 2 485 131 
+frame0225.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 394 0 445 129 
+frame0225.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 237 1 265 73 
+frame0224.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 241 0 269 73 
+frame0224.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 398 1 449 129 
+frame0223.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 404 1 458 133 
+frame0223.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 248 0 276 77 
+frame0222.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 253 2 277 72 
+frame0222.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 408 1 462 133 
+frame0221.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 408 0 460 129 
+frame0221.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 253 2 277 72 
+frame0220.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 244 0 269 68 
+frame0220.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 400 1 452 128 
+frame0219.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 374 0 420 108 
+frame0219.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 212 1 234 45 
+frame0217.png
+frame0216.png
+frame0215.png
+frame0214.png
+frame0213.png
+frame0212.png
+frame0211.png
+frame0210.png
+frame0208.png
+frame0207.png
+frame0206.png
+frame0205.png
+frame0204.png
+frame0203.png
+frame0200.png
+frame0199.png
+frame0198.png
+frame0197.png
+frame0196.png
+frame0195.png
+frame0194.png
+frame0192.png
+frame0191.png
+frame0190.png
+frame0189.png
+frame0188.png
+frame0187.png
+frame0186.png
+frame0184.png
+frame0183.png
+frame0182.png
+frame0181.png
+frame0180.png
+frame0179.png
+frame0178.png
+frame0176.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 297 2 363 148 
+frame0176.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 564 2 585 46 
+frame0175.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 573 0 594 33 
+frame0175.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 304 2 370 144 
+frame0174.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 318 0 381 148 
+frame0174.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 590 1 611 38 
+frame0173.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 588 1 614 45 
+frame0173.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 318 0 388 161 
+frame0172.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 313 1 389 161 
+frame0172.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 588 1 614 45 
+frame0171.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 557 1 585 47 
+frame0171.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 289 1 365 161 
+frame0170.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 311 1 380 166 
+frame0170.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 578 1 606 57 
+frame0169.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 602 0 628 60 
+frame0169.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 332 3 398 169 
+frame0168.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 334 0 400 165 
+frame0168.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 606 0 631 57 
+frame0155.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 95 0 201 261 
+frame0155.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 344 2 400 157 
+frame0154.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 357 2 402 169 
+frame0154.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 107 0 206 275 
+frame0153.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 114 0 212 268 
+frame0153.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 366 2 411 169 
+frame0152.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 355 0 403 161 
+frame0152.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 103 3 210 263 
+frame0151.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 102 1 204 249 
+frame0151.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 359 0 401 149 
+frame0150.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 365 0 410 145 
+frame0150.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 112 1 214 249 
+frame0149.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 133 0 217 239 
+frame0149.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 379 0 417 141 
+frame0146.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 19 1 53 114 
+frame0145.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 0 29 133 
+frame0994.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 607 1 631 155 
+frame0994.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 2 387 143 
+frame0993.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 344 3 372 108 
+frame0993.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 578 0 594 107 
+frame0992.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 583 4 598 79 
+frame0992.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 348 4 371 99 
+frame0991.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 326 0 367 107 
+frame0991.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 560 0 580 82 
+frame0990.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 479 2 506 68 
+frame0990.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 258 0 305 101 
+frame0908.png
+frame0907.png
+frame0906.png
+frame0905.png
+frame0904.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 94 20 155 
+frame0903.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 95 36 238 
+frame0902.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 89 35 244 
+frame0901.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 2 86 40 241 
+frame0900.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 82 36 234 
+frame0899.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 82 45 234 
+frame0808.png
+frame0803.png
+frame0802.png
+frame0801.png
+frame0800.png
+frame0799.png
+frame0798.png
+frame0797.png
+frame0796.png
+frame0795.png
+frame0794.png
+frame0793.png
+frame0792.png
+frame0791.png
+frame0790.png
+frame0789.png
+frame0786.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 319 2 340 107 
+frame0786.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 503 0 544 136 
+frame0785.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 194 4 216 104 
+frame0785.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 379 3 400 125 
+frame0784.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 134 0 152 76 
+frame0784.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 320 0 348 106 
+frame0783.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 371 0 410 107 
+frame0783.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 194 4 217 77 
+frame0144.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 0 29 121 
+frame0143.png
+frame0143.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 0 0 28 117 
+frame0142.png
+frame0141.png
+frame0140.png
+frame0138.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 542 62 597 213 
+frame0138.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 375 39 411 161 
+frame0137.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 370 38 409 156 
+frame0137.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 536 59 591 210 
+frame0136.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 536 72 588 222 
+frame0136.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 369 45 408 163 
+frame0135.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 351 60 386 180 
+frame0135.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 517 79 566 229 
+frame0134.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 512 83 563 236 
+frame0134.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 350 60 386 180 
+frame0133.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 349 55 384 178 
+frame0133.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 512 86 563 236 
+frame0132.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 499 84 550 234 
+frame0132.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 337 54 372 177 
+frame0131.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 446 84 483 229 
+frame0131.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 284 57 312 175 
+frame0119.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 334 1 363 74 
+frame0119.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 158 0 172 20 
+frame0118.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 373 1 412 87 
+frame0118.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 207 2 224 24 
+frame0117.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 264 0 284 31 
+frame0117.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 427 2 475 105 
+frame0116.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 432 1 504 146 
+frame0116.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 274 0 306 73 
+frame0115.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 263 1 296 70 
+frame0115.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 419 1 496 148 
+frame0114.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 271 2 311 74 
+frame0114.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 424 15 510 163 
+frame0113.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 288 1 330 87 
+frame0113.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 448 19 533 172 
+frame0111.png
+frame0110.png
+frame0109.png
+frame0108.png
+frame0107.png
+frame0106.png
+frame0105.png
+frame0104.png 640 360  bitbots-2018-iran-18-minibot-game goalpost 549 2 559 8 
+frame0103.png
+frame0102.png
+frame0101.png
+frame0100.png
+frame0099.png
+frame0098.png
+frame0097.png
+frame0096.png
+frame0095.png
+frame0094.png
+frame0092.png
+frame0091.png
+frame0090.png
+frame0089.png
+ 
