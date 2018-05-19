@@ -19,10 +19,10 @@ def getClsID(real_type):
     else:
         raise AssertionError("invalid type")
 
-dataset_id = '367'
+dataset_id = '368'
 fin = open('export_'+dataset_id+'.txt', 'r')
-fout = open('out_'+dataset_id+'.txt', 'w')
-fout2 = open('list_'+dataset_id+'.txt', 'w')
+#fout = open('out_'+dataset_id+'.txt', 'w')
+fout2 = open('train_list_'+dataset_id+'.txt', 'w')
 name = 0
 w = 1
 h = 2
@@ -32,6 +32,7 @@ minx = 5
 miny = 6
 maxx = 7
 maxy = 8
+homepath = "/home/alex/Desktop/darknet/pic/"
 for line in fin:
     items = line.split()
     if len(items) < 9 or (items[ty] != "goal" and items[ty] != "goalpost"):  # this line does not contain label
@@ -46,6 +47,9 @@ for line in fin:
     b = [int(items[x]) for x in [minx, miny, maxx, maxy]]
     bb = convert(size, b)
     cls_id = getClsID(items[ty])
+    annotation_name = homepath + items[name][:-3] + "txt"
+    fout = open(annotation_name, "w")
     fout.write(str(cls_id) + " " + " ".join([str(a) for a in bb]) + '\n')
-    fout2.write(items[dataset] + items[name] + '\n')
+    fout.close()
+    fout2.write(homepath + items[name] + '\n')  # only name of pic should be saved
 print('done')
