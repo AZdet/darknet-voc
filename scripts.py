@@ -48,8 +48,9 @@ for line in fin:
     bb = convert(size, b)
     cls_id = getClsID(items[ty])
     annotation_name = homepath + items[name][:-3] + "txt"
-    fout = open(annotation_name, "w")
+    fout = open(annotation_name, "a")
     fout.write(str(cls_id) + " " + " ".join([str(a) for a in bb]) + '\n')
     fout.close()
     fout2.write(homepath + items[name] + '\n')  # only name of pic should be saved
+fout2.close()
 print('done')
