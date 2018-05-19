@@ -1,5 +1,5 @@
 import os
-AllClass = ['ball', 'goal', 'robot', 'goalpost', 'line', 'concealed ball']
+#AllClass = ['ball', 'goal', 'robot', 'goalpost', 'line', 'concealed ball']
 def convert(size, box):
     dw = 1./(size[0])
     dh = 1./(size[1])
@@ -15,9 +15,9 @@ def convert(size, box):
 
 def getClsID(real_type):
     if real_type == "goal" or real_type == "goalpost":  # should we seperate goal and goalpost?
-        return 1
-    else:
         return 0
+    else:
+        raise AssertionError("invalid type")
 
 dataset_id = '367'
 fin = open('export_'+dataset_id+'.txt', 'r')
@@ -34,10 +34,10 @@ maxx = 7
 maxy = 8
 for line in fin:
     items = line.split()
-    if len(items) < 9:  # this line does not contain label
-        cls_id = getClsID("")
-        fout.write(str(cls_id) + " "  + '\n')
-        fout2.write(items[name] + '\n')
+    if len(items) < 9 or (items[ty] != "goal" and items[ty] != "goalpost"):  # this line does not contain label
+        # cls_id = getClsID("")
+        # fout.write(str(cls_id) + " "  + '\n')
+        # fout2.write(items[name] + '\n')
         continue
     # name W H dataset type minx miny maxx maxy
     #   0  1 2   3      4    5    6    7    8  
