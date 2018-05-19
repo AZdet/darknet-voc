@@ -45,7 +45,7 @@ with open('train_list_'+dataset_id+'.txt', 'w') as fout2:
         #   0  1 2   3      4    5    6    7    8  
         assert(len(items) == 9)
         size = (int(items[w]), int(items[h]))
-        b = [int(items[x]) for x in [minx, miny, maxx, maxy]]
+        b = [int(items[x]) for x in [minx, maxx, miny, maxy]]
         bb = convert(size, b)
         cls_id = getClsID(items[ty])
         annotation_name = homepath + items[name][:-3] + "txt"
